@@ -46,9 +46,9 @@
 						
 						<li class="menu-item"><a href="about.php" class="nav-links">About Us</a></li>
 
-						<li class="menu-item"><a href="#" class="nav-links">Academy</a></li>
+						<!-- <li class="menu-item"><a href="#" class="nav-links">Academy</a></li>
 
-						<li class="menu-item"><a href="#" class="nav-links">Invest</a></li>
+						<li class="menu-item"><a href="#" class="nav-links">Invest</a></li> -->
 
 						<li class="menu-item"><a href="contact.php" class="nav-links">Contact</a></li>
 
